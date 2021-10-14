@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "DCXktn0GDfTToMJ2jVB5cnKx42BeCTClEzXTp266LR0eAxtzhX2EhYBYKwlZo/YcKbjZLq3dlx9HpbSCWBvSpA==",
+  "dgSpecHash": "Yag+UL+whRrdsl4ZVe7xWbJO+IFRCL4hhMjrvCSXPaWVFWSCaR/2TCoGXDmD8KSlzNLZ+O4T2EHmpJg7AvZL0w==",
   "success": true,
   "projectFilePath": "C:\\Users\\tam\\source\\repos\\KeepBudgeting\\KeepBudgeting.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\tam\\.nuget\\packages\\bootstrap\\5.1.2\\bootstrap.5.1.2.nupkg.sha512"
+  ],
   "logs": []
 }
